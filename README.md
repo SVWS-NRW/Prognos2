@@ -1,2 +1,2 @@
 # Prognos2
-Beta-Test zur neuen Prüfungsordung API-SI-20 in Prognos 2
+Beta-Test zur neuen Prüfungsordnung APO-SI-20 in Prognos2
